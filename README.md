@@ -1,0 +1,2 @@
+# proj_db8-luxe-haven---luxury-e-commerce---vacation-rental-platform
+LUXE HAVEN is a premium international luxury marketplace offering jewelry, watches, fashion accessories, and vacation rentals. The platform targets Nigerian and international customers with an elegant, mobile-first design featuring sophisticated black, charcoal, champagne gold, and ivory aesthetics. Built entirely with free tools and hosting to acc
